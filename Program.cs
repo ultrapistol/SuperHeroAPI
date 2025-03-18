@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using SuperHeroAPI_Dotnet8.Data;
 
 var builder = WebApplication.CreateBuilder(args);
